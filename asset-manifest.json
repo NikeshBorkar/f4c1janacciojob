@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/f4c1janacciojob/static/css/main.afede9cc.css",
+    "main.js": "/f4c1janacciojob/static/js/main.ce1ab6f9.js",
+    "static/media/Montserrat-Medium.ttf": "/f4c1janacciojob/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "index.html": "/f4c1janacciojob/index.html",
+    "main.afede9cc.css.map": "/f4c1janacciojob/static/css/main.afede9cc.css.map",
+    "main.ce1ab6f9.js.map": "/f4c1janacciojob/static/js/main.ce1ab6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afede9cc.css",
+    "static/js/main.ce1ab6f9.js"
+  ]
+}
